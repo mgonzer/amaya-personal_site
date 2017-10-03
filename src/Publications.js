@@ -2,7 +2,7 @@ import React from 'react';
 
 const Publications = () => (
   <div>
-    <h1>Amaya P.B.</h1>
+    <h1>Publications</h1>
   </div>
 )
 
